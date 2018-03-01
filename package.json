@@ -1,0 +1,16 @@
+{
+  "name": "api_archive_3d",
+  "version": "1.0.0",
+  "description": "api website archive 3D",
+  "main": "server.js",
+  "dependencies": {
+    "google-search": "^0.0.5",
+    "jsdom": "^11.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
